@@ -1,5 +1,17 @@
-# Genetic-Algorithm
-This is a small project about a Genetic Algorithm
+# Genetic-Algorithm  
+This is a small project about a Genetic Algorithm.  
+  
+In this  project you can find the next two notebooks:  
+ - genetic_algorithm_calc.ipynb  
+ - results_genetic_algorithm.ipynb  
+   
+ The first notebook, genetic_algorithm_calc show you the calculations of the Genetic Algorithm.  
+ The second notebook, will show you the reults.  
+   
+   
+# Goal
+
+# Results
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqGWAfOz3RM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/jqGWAfOz3RM
