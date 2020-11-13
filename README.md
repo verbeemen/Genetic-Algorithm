@@ -9,6 +9,10 @@ In this  project you can find the following notebooks:
  The second notebook, will show you the reults.  
    
    
+### Youtube Video
+https://www.youtube.com/embed/jqGWAfOz3RM
+
+
 ### Target
 
 ![target](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/target.png?raw=true)
@@ -37,5 +41,3 @@ In this  project you can find the following notebooks:
 **Start**  
 ![Start](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/0.png?raw=true)  
 
-### Youtube Video
-https://www.youtube.com/embed/jqGWAfOz3RM
