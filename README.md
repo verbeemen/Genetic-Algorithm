@@ -3,9 +3,9 @@ This is a small project about a Genetic Algorithm.
   
 In this  project you can find the following notebooks:    
  - [genetic_algorithm_calc.ipynb](https://github.com/verbeemen/Genetic-Algorithm/blob/main/genetic_algorithm_calc.ipynb)  
- - [results_genetic_algorithm.ipynb](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results_genetic_algorithm.ipynb)   
+ - [genetic_algorithm_results.ipynb](https://github.com/verbeemen/Genetic-Algorithm/blob/main/genetic_algorithm_results.ipynb)   
    
- The first notebook, genetic_algorithm_calc shows you the calculations of the Genetic Algorithm.  
+ The first notebook, *genetic_algorithm_calc* shows you the calculations of the Genetic Algorithm.  
  The second notebook, will show you the reults.  
    
    
