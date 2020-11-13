@@ -17,7 +17,7 @@ https://www.youtube.com/embed/jqGWAfOz3RM
 
 ![target](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/target.png?raw=true)
 
-### Results   
+### Results : 85% Match
 **Iteration: 710000**  
 ![iteration 710000](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/710000.png?raw=true)  
 **Iteration: 639000**  
