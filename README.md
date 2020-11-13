@@ -35,7 +35,7 @@ In this  project you can find the following notebooks:
 **Iteration: 71000**  
 ![iteration 71000](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/71000.png?raw=true)  
 **Start**  
-![Start](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/70.png?raw=true)  
+![Start](https://github.com/verbeemen/Genetic-Algorithm/blob/main/results/0.png?raw=true)  
 
 ### Youtube Video
 https://www.youtube.com/embed/jqGWAfOz3RM
