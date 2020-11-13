@@ -6,7 +6,7 @@ In this  project you can find the following notebooks:
  - [genetic_algorithm_results.ipynb](https://github.com/verbeemen/Genetic-Algorithm/blob/main/genetic_algorithm_results.ipynb)   
    
  The first notebook, *genetic_algorithm_calc* shows you the calculations of the Genetic Algorithm.  
- The second notebook, will show you the reults.  
+ The second notebook, will show you the results.  
    
    
 ### Youtube Video
